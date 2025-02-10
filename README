@@ -1,0 +1,3 @@
+#demo-dao-jdbc
+Projeto para estudos de DAO e JDBC com banco de dados SQL, CRUD completo utilizando tabelas de sellers e department.
+Feito e testado com Eclipse e MySQL.
